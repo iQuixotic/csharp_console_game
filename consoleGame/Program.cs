@@ -1,15 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
+// Namespace
 namespace consoleGame
 {
+    // Main Class
     class Program
     {
+        // Entry Point
         static void Main(string[] args)
         {
+            Console.WriteLine("sauceFam!");
+            Console.ReadKey();
         }
     }
 }
